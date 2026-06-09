@@ -1,5 +1,4 @@
 # QR-Based-AGV-Warehouse-System
-# QR-Based-AGV-Warehouse-System
 
 ## Physical Prototype
 
